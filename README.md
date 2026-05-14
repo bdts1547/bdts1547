@@ -66,8 +66,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bdts1547/bdts1547/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bdts1547/bdts1547/pacman-output/galaga-contribution-graph.svg">
 </picture>
-
-###
-###
-
-###
