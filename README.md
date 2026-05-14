@@ -39,9 +39,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">Hi 👋</h1>
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
