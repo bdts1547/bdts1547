@@ -45,15 +45,15 @@ Here are some ideas to get you started:
 
 ###
 
-- 🔭 I’m currently working on Core Banking Systems, General Ledger modules, and PostgreSQL migration projects
+- 🔭 I’m currently working on Core Banking Systems, General Ledger, Loan modules
 
-- 🌱 I’m currently learning System Design, Distributed Systems, DevOps, Kubernetes, and Advanced Backend Development
+- 🌱 I’m currently learning System Design, Distributed Systems, DevOps, and Advanced Backend Development
 
-- 👯 I’m looking to collaborate on Java Backend, Banking Systems, SAP BTP, AI/LLM, and Open Source projects
+- 👯 I’m looking to collaborate on Java Backend, Banking Systems, AI/LLM
 
 - 🤔 I’m looking for help with High Performance Systems, Cloud Architecture, and Low-level System Design
 
-- 💬 Ask me about Java, Spring Boot, Jmix, SAP CAP/BTP, PostgreSQL, Microservices, Linux, and LLM applications
+- 💬 Ask me about Java, Spring Boot, PostgreSQL, Microservices, Linux, and LLM applications
 
 - ⚡ Fun fact: I transitioned from AI/LLM research into enterprise banking systems and still enjoy solving algorithm and system optimization problems
 
